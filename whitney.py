@@ -1,3 +1,3 @@
-def getFunction():
+def get():
 
-%
+#1
