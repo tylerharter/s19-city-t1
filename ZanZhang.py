@@ -1,1 +1,1 @@
-print("pass")
+print("First test pass")
